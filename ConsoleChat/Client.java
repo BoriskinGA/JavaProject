@@ -1,4 +1,4 @@
-package ru.geekbrains.HomeTask;
+package ru.geekbrains.ConsoleChat;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
